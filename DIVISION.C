@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 #include<conio.h>
 int main() 
 {	
@@ -14,4 +14,5 @@ int main()
        {
            printf("%d\n",(n1%n2));
        }
+getch();
 }
